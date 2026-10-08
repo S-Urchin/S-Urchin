@@ -2,19 +2,21 @@
   <img src="Banner.jpg" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Jimiel! </h1>
+<h1 align="center">Hi, I'm Jimiel!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student.;Full-Stack+Web+Developer.;Computer+Vision.;+Digital+Artistry." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student.;Full-Stack+Web+Developer.;Computer+Vision.;Digital+Artistry." alt="Typing SVG" />
   </a>
 </p>
 
-**Computer Science student** at FEU Institute of Technology Specializing in Software Engineering, based in Quezon City, Philippines.
+**Computer Science student** at FEU Institute of Technology specializing in Software Engineering, based in Quezon City, Philippines.
+
 > I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
-<h2 align="left">Who am I and what I believe in! </h2>
-I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series or probably just lazing around :>
+## Who am I and what I believe in!
+
+I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series, or probably just lazing around :>
 
 ---
 
@@ -22,8 +24,8 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
-<h2 align="left">My Tech Stacks! </h2>
----
+## My Tech Stacks!
+
 #### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,20 +59,23 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
-<h2 align="left">My Favorite Projects!</h2>
----
-**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation - Thesis Project
-Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. 
+## My Favorite Projects!
+
+**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation (Thesis Project)
+
+Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time.
+
 > I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
+
 <!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
 
 **🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge entry
-> I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations wihtin the app, and deployed the web client on Vercel.
+
+> I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations within the app, and deployed the web client on Vercel.
 
 ---
 
-<h2 align="left">My Certifications!</h2>
----
+## My Certifications!
 
 <p align="center">
   <a href="cert-python.png"><img src="cert-python.png" width="45%" alt="IT Specialist in Python certificate"></a>
@@ -83,11 +88,15 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
   <b>PMI Project Management Ready®</b>, Project Management Institute, 2026
 </p>
 
-<h2 align="left">Shameless Art Plug :> </h2>
 ---
+
+## Shameless Art Plug :>
+
 I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
+
 ---
 
 ## 📫 Find Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
 [![Cara](https://img.shields.io/badge/Cara-000000?style=for-the-badge)](https://cara.app/spacechild)
