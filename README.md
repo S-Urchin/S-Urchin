@@ -81,8 +81,17 @@ I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild).
 ---
 
 ## 📜 Certifications
-- IT Specialist in Python, Certiport (Pearson VUE)
-- PMI Project Management Ready®, Project Management Institute
+
+<p align="center">
+  <a href="cert-python.png"><img src="cert-python.png" width="45%" alt="IT Specialist in Python certificate"></a>
+  &nbsp;
+  <a href="cert-pmi.png"><img src="cert-pmi.png" width="45%" alt="PMI Project Management Ready certificate"></a>
+</p>
+
+<p align="center">
+  <b>IT Specialist in Python</b>, Certiport (Pearson VUE), 2025 &nbsp;•&nbsp;
+  <b>PMI Project Management Ready®</b>, Project Management Institute, 2026
+</p>
 
 ## 📫 Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
