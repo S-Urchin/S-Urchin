@@ -22,11 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=S-Urchin&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
-[![Cara](https://img.shields.io/badge/Cara-000000?style=for-the-badge)](https://cara.app/spacechild)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kgryst.rs)
-
-
 **Computer Science student** at FEU Institute of Technology specializing in Software Engineering, based in Quezon City, Philippines.
 
 > I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
