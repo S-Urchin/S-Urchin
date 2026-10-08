@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="Stargazing.png" width="100%">
+  <img src="Banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Jimiel! </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Computer+Vision+Tinkerer;I+built+my+own+programming+language;Digital+artist+on+the+side" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Computer+Vision;+Digital+Artistry" alt="Typing SVG" />
   </a>
 </p>
 
