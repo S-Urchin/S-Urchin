@@ -4,11 +4,13 @@
 
 <h1 align="center">Hi, I'm Jim!</h1>
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
-  [![Cara](https://img.shields.io/badge/Cara-000000?style=for-the-badge)](https://cara.app/spacechild)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kgryst.rs)
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
+[![Cara](https://img.shields.io/badge/Cara-000000?style=for-the-badge)](https://cara.app/spacechild)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kgryst.rs)
+
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
