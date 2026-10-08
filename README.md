@@ -11,12 +11,15 @@
 </p>
 
 **Computer Science student** at FEU Institute of Technology Specializing in Software Engineering, based in Quezon City, Philippines.
-I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
+> I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
 <h2 align="left">Who am I and what I believe in! </h2>
 I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series or probably just lazing around :>
+
 ---
+
 > The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness.
+
 ---
 
 <h2 align="left">My Tech Stacks! </h2>
