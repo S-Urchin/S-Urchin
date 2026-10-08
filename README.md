@@ -13,13 +13,13 @@
 **Computer Science student** at FEU Institute of Technology Specializing in Software Engineering, based in Quezon City, Philippines.
 I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
-<h2 align="right">Who am I and what I believe in! </h2>
+<h2 align="left">Who am I and what I believe in! </h2>
 I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series or probably just lazing around :>
 ---
 > The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness.
 ---
 
-<h2 align="right">My Tech Stacks! </h2>
+<h2 align="left">My Tech Stacks! </h2>
 ---
 #### Languages
 
@@ -54,7 +54,7 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
-<h2 align="right">My Favorite Projects!</h2>
+<h2 align="left">My Favorite Projects!</h2>
 ---
 **🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation - Thesis Project
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. 
@@ -66,7 +66,7 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 
 ---
 
-<h2 align="right">My Certifications!</h2>
+<h2 align="left">My Certifications!</h2>
 ---
 
 <p align="center">
@@ -80,7 +80,7 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
   <b>PMI Project Management Ready®</b>, Project Management Institute, 2026
 </p>
 
-<h2 align="right">Shameless Art Plug :> </h2>
+<h2 align="left">Shameless Art Plug :> </h2>
 ---
 I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
 ---
