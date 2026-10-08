@@ -1,15 +1,17 @@
 <!-- Optional: replace with a banner you drew yourself (upload it to this repo first) -->
 <!-- ![banner](banner.png) -->
 
-# Hi, I'm Jimiel 👋
+# Hi, I'm Jim! 
 
 **Computer Science student** at FEU Institute of Technology (Software Engineering track), based in Quezon City, Philippines.
 
-I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing. ✏️
+I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm probably working on my comics series, or plain lazing around. :>
 
 ---
 
-### 🛠️ Tech I use
+### 🛠️ Stuff I use to cook:
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -19,14 +21,25 @@ I like building things you can see and play with: interactive simulations, full-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv11-111F68?style=flat&logo=ultralytics&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Design**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
