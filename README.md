@@ -118,7 +118,7 @@ Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
 
 ## Shameless Art Plug :>
 
-I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
+I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) and [Instagram](https://instagram.com/kgryst.rs):>
 
 ---
 
