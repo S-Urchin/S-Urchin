@@ -61,7 +61,7 @@ I like building things you can see and play with: interactive simulations, full-
 
 ## My Favorite Projects!
 
-**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation (Thesis Project)
+**🍌 [S-Aging](https://github.com/yoellil/S-aging.git)**: Banana Disease Simulation (Thesis Project)
 
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time.
 
