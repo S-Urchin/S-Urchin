@@ -2,7 +2,7 @@
   <img src="Banner.jpg" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Jim</h1>
+<h1 align="center">Hi, I'm Jim!</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
