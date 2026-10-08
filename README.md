@@ -24,7 +24,7 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
-> The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness.
+> The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness and the heart is the great inspector.
 
 ---
 
