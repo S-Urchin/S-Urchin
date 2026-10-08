@@ -124,5 +124,3 @@ I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kgryst.rs)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:36BCF7&height=120&section=footer" width="100%" alt="footer wave" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:36BCF7&height=120&section=footer" width="100%" alt="footer wave" />
