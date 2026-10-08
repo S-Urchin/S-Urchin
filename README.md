@@ -69,9 +69,13 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
 
-**🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge entry
+**🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge 2026 Entry
+
+Built for planning and guiding manned missions in Mars, visualized in 3D and 2D.
 
 > I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations within the app, and deployed the web client on Vercel.
+
+<!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
 
 ---
 
