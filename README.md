@@ -105,7 +105,7 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 
 Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
 
-> I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations within the app, and deployed the web client on Vercel.
+> Currently in Progress.
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 
