@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[banner.png](https://github.com/S-Urchin/S-Urchin/blob/main/Stargazing.png)" width="100%">
+  <img src="Stargazing.png" width="100%">
 </p>
 
 # Hi, I'm Jim! 
