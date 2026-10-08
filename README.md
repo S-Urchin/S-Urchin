@@ -1,5 +1,6 @@
-<!-- Optional: replace with a banner you drew yourself (upload it to this repo first) -->
-<!-- ![banner](banner.png) -->
+<p align="center">
+  <img src="[banner.png](https://github.com/S-Urchin/S-Urchin/blob/main/Stargazing.png)" width="100%">
+</p>
 
 # Hi, I'm Jim! 
 
