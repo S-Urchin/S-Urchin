@@ -2,7 +2,7 @@
   <img src="Stargazing.png" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Jimiel 👋</h1>
+<h1 align="center">Hi, I'm Jimiel! </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
