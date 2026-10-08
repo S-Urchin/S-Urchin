@@ -6,13 +6,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Computer+Vision;+Digital+Artistry" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student.;Full-Stack+Web+Developer.;Computer+Vision.;+Digital+Artistry." alt="Typing SVG" />
   </a>
 </p>
 
-**Computer Science student** at FEU Institute of Technology (Software Engineering track), based in Quezon City, Philippines.
+**Computer Science student** at FEU Institute of Technology Specializing in Software Engineering, based in Quezon City, Philippines.
+> I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
-I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing. ✏️
+
+I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series or probably just lazing around :>
+> The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness.
 
 ---
 
@@ -53,16 +56,14 @@ I like building things you can see and play with: interactive simulations, full-
 
 ## 🚀 Featured Projects
 
-**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: 3D spatio-temporal banana disease simulation
-Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
+**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation - Thesis Project
+Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. 
+> I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
 <!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
 
 **🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge entry
-<!-- Add one line on what MapaMars does and what you built -->
+> I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations wihtin the app, and deployed the web client on Vercel.
 
-**🧩 [Remnant](https://github.com/S-Urchin/REPO-NAME)**: an interpreted programming language
-A language I built from scratch in Python, with its own lexer, syntax highlighting, and live variable state tracking.
-<!-- ![Remnant demo](remnant.gif) -->
 
 ---
 
