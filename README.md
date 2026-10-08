@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- Optional: replace with a banner you drew yourself (upload it to this repo first) -->
+<!-- ![banner](banner.png) -->
 
-<!--
-**S-Urchin/S-Urchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jimiel 👋
 
-Here are some ideas to get you started:
+**Computer Science student** at FEU Institute of Technology (Software Engineering track), based in Quezon City, Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing. ✏️
+
+---
+
+### 🛠️ Tech I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-111F68?style=flat&logo=ultralytics&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+**🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: 3D spatio-temporal banana disease simulation
+Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
+<!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
+
+**🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge entry
+<!-- Add one line on what MapaMars does and what you built -->
+
+**🧩 [Remnant](https://github.com/S-Urchin/REPO-NAME)**: an interpreted programming language
+A language I built from scratch in Python, with its own lexer, syntax highlighting, and live variable state tracking.
+<!-- ![Remnant demo](remnant.gif) -->
+
+---
+
+### 🎨 Outside of code
+
+I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild).
+
+<!-- When you're ready to share, uncomment and add your pieces:
+<p>
+  <img src="art1.png" width="250">
+  <img src="art2.png" width="250">
+  <img src="art3.png" width="250">
+</p>
 -->
+
+---
+
+### 📜 Certifications
+- IT Specialist in Python, Certiport (Pearson VUE)
+- PMI Project Management Ready®, Project Management Institute
+
+### 📫 Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
