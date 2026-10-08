@@ -11,16 +11,16 @@
 </p>
 
 **Computer Science student** at FEU Institute of Technology Specializing in Software Engineering, based in Quezon City, Philippines.
-> I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
+I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
-
+<h2 align="right">Who am I and what I believe in! </h2>
 I like building things you can see and play with: interactive simulations, full-stack web apps, computer vision tools, and even a programming language of my own. When I'm not coding, I'm drawing, writing my comic series or probably just lazing around :>
+---
 > The human eye proves reality as an imitation of something bigger than us. We see things and may not like it, but such, it shows us the truth of something that must be seen. The eye is the great witness.
-
 ---
 
-## 🛠️ Tech Stack & Skills
-
+<h2 align="right">My Tech Stacks! </h2>
+---
 #### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,8 +54,8 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
-## 🚀 Featured Projects
-
+<h2 align="right">My Favorite Projects!</h2>
+---
 **🍌 [S-Aging](https://github.com/S-Urchin/REPO-NAME)**: Banana Disease Simulation - Thesis Project
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time. 
 > I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
@@ -64,24 +64,10 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 **🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge entry
 > I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations wihtin the app, and deployed the web client on Vercel.
 
-
 ---
 
-## 🎨 Outside of Code
-
-I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild).
-
-<!-- When you're ready to share, uncomment and add your pieces:
-<p>
-  <img src="art1.png" width="250">
-  <img src="art2.png" width="250">
-  <img src="art3.png" width="250">
-</p>
--->
-
+<h2 align="right">My Certifications!</h2>
 ---
-
-## 📜 Certifications
 
 <p align="center">
   <a href="cert-python.png"><img src="cert-python.png" width="45%" alt="IT Specialist in Python certificate"></a>
@@ -93,6 +79,11 @@ I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild).
   <b>IT Specialist in Python</b>, Certiport (Pearson VUE), 2025 &nbsp;•&nbsp;
   <b>PMI Project Management Ready®</b>, Project Management Institute, 2026
 </p>
+
+<h2 align="right">Shameless Art Plug :> </h2>
+---
+I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
+---
 
 ## 📫 Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
