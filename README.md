@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S-Urchin&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+</p>
+
 **Computer Science student** at FEU Institute of Technology specializing in Software Engineering, based in Quezon City, Philippines.
 
 > I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
@@ -59,9 +63,22 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
+## My GitHub Stats!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Urchin&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Urchin&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=S-Urchin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
 ## My Favorite Projects!
 
-**🍌 [S-Aging](https://github.com/yoellil/S-aging.git)**: Banana Disease Simulation (Thesis Project)
+**🍌 [S-Aging](https://github.com/yoellil/S-aging)**: Banana Disease Simulation (Thesis Project)
 
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time.
 
@@ -71,11 +88,11 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 
 **🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge 2026 Entry
 
-Built for planning and guiding manned missions in Mars, visualized in 3D and 2D.
+Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
 
 > I contributed to the UI/UX development, built mission servicing page functions with different mission visualizations within the app, and deployed the web client on Vercel.
 
-<!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
+<!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 
 ---
 
@@ -104,3 +121,5 @@ I draw digitally for fun. See my art on [Cara](https://cara.app/spacechild) :>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimiel-balitayo/)
 [![Cara](https://img.shields.io/badge/Cara-000000?style=for-the-badge)](https://cara.app/spacechild)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:36BCF7&height=120&section=footer" width="100%" alt="footer wave" />
