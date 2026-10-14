@@ -109,6 +109,14 @@ Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 
+**🪐 [Storyteller Obsidian Plugin](https://github.com/S-Urchin/obsidian-storyteller.git)**: Obsidian Plugin for drafting comics.
+
+Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting with complete commenting system with note linking. 
+
+> More information in [Obsidian community](https://community.obsidian.md/plugins/storyteller-comic-drafter).
+> Currently has 150+ downloads.
+
+<!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 ---
 
 ## My Certifications!
