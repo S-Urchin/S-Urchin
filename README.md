@@ -114,7 +114,7 @@ Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
 Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting with complete commenting system with note linking. 
 
 > More information in [Obsidian community](https://community.obsidian.md/plugins/storyteller-comic-drafter).
-> Currently has 150+ downloads.
+> Currently has 800+ downloads.
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 ---
