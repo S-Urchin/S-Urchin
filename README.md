@@ -88,7 +88,7 @@ I like building things you can see and play with: interactive simulations, full-
 
 ## My Favorite Projects!
 
-** [S-Aging](https://github.com/yoellil/S-aging)**: Banana Disease Simulation (Thesis Project)
+**[S-Aging](https://github.com/yoellil/S-aging)**: Banana Disease Simulation (Thesis Project)
 
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time.
 
@@ -96,7 +96,7 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 > Worked with YOLOv11, an AI model used for computer vision.
 
 
-** [Storyteller Obsidian Plugin](https://github.com/S-Urchin/obsidian-storyteller.git)**: Obsidian Plugin for drafting comics.
+**[Storyteller Obsidian Plugin](https://github.com/S-Urchin/obsidian-storyteller.git)**: Obsidian Plugin for drafting comics.
 
 Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting with complete commenting system with note linking, and issue management. 
 
@@ -105,7 +105,7 @@ Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting 
 > Currently has 800+ downloads.
 
 
-** [Kulay](https://github.com/S-Urchin/Kulay.git)**: A Reading Comprehension App and a study app.
+**[Kulay](https://github.com/S-Urchin/Kulay.git)**: A Reading Comprehension App and a study app.
 
 Built to assist students in reading, testing English comprehension, and fluency.
 
