@@ -81,11 +81,6 @@ I like building things you can see and play with: interactive simulations, full-
 ## My GitHub Stats!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Urchin&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Urchin&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=S-Urchin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -100,12 +95,6 @@ Models how disease spreads across a leaf surface (2D) and through the fruit (3D)
 > I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
-
-**🪐 [MapaMars](https://github.com/S-Urchin/MapaMars)**: NASA Space Apps Challenge 2026 Entry
-
-Built for planning and guiding manned missions on Mars, visualized in 3D and 2D.
-
-> Currently in Progress.
 
 <!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 
