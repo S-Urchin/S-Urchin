@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=S-Urchin&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
 </p>
 
-**Computer Science student** at FEU Institute of Technology specializing in Software Engineering, based in Quezon City, Philippines.
+**Computer Science student** at FEU Institute of Technology, specializing in Software Engineering, based in Quezon City, Philippines.
 
 > I specialize in full-stack web deployment, computer vision workflows, and interactive digital simulations. Skilled in integrating LLM pipelines with intuitive, HCI-centered design.
 
@@ -88,24 +88,22 @@ I like building things you can see and play with: interactive simulations, full-
 
 ## My Favorite Projects!
 
-**🍌 [S-Aging](https://github.com/yoellil/S-aging)**: Banana Disease Simulation (Thesis Project)
+** [S-Aging](https://github.com/yoellil/S-aging)**: Banana Disease Simulation (Thesis Project)
 
 Models how disease spreads across a leaf surface (2D) and through the fruit (3D) over time.
 
 > I led the UI/UX, built the interactive components and data visualizations, wrote the simulation logic, and deployed the web client on Vercel.
+> Worked with YOLOv11, an AI model used for computer vision.
 
-<!-- Add a screenshot or GIF here, it makes a big difference: ![S-Aging demo](s-aging.gif) -->
 
-<!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
+** [Storyteller Obsidian Plugin](https://github.com/S-Urchin/obsidian-storyteller.git)**: Obsidian Plugin for drafting comics.
 
-**🪐 [Storyteller Obsidian Plugin](https://github.com/S-Urchin/obsidian-storyteller.git)**: Obsidian Plugin for drafting comics.
-
-Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting with complete commenting system with note linking. 
+Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting with complete commenting system with note linking, and issue management. 
 
 > More information in [Obsidian community](https://community.obsidian.md/plugins/storyteller-comic-drafter).
+> Identified a problem with the lack of comic-focused drafting tools in Obsidian.
 > Currently has 800+ downloads.
 
-<!-- Add a screenshot or GIF here, it makes a big difference: ![MapaMars demo](mapamars.gif) -->
 ---
 
 ## My Certifications!
