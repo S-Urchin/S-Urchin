@@ -111,6 +111,12 @@ Built to assist students in reading, testing English comprehension, and fluency.
 
 > I led the frontend and UI/UX design, creating customized components to visualize reading materials.
 
+**[MapaMars](https://github.com/ProcX4/MapaMarso.git)**: A MarsWalk Planner with Hazard Layers.
+
+Built to assist Rovers, EVAs and missions to plot routes in the Mars surface. 
+
+> UI/UX, implemented a topological layer with A* pathfinding algorithms, and finally, deployed the website and managed the DBMS. 
+
 ---
 
 ## My Certifications!
