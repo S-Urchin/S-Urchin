@@ -38,6 +38,14 @@ I like building things you can see and play with: interactive simulations, full-
 
 ---
 
+## My Core Competencies!
+
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1A1B27?style=for-the-badge)
+![UI Prototyping / Wireframing](https://img.shields.io/badge/UI%20Prototyping%20%2F%20Wireframing-1A1B27?style=for-the-badge)
+![System Architecture Design](https://img.shields.io/badge/System%20Architecture%20Design-1A1B27?style=for-the-badge)
+
+---
+
 ## My Tech Stacks!
 
 #### Languages
@@ -79,6 +87,8 @@ I like building things you can see and play with: interactive simulations, full-
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-CFD3E0?style=for-the-badge&logo=clipstudiopaint&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0100?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -106,7 +116,7 @@ Built for drafting comics using drag-and-drop blocks. Uses a WYSIWYG formatting 
 
 > More information in [Obsidian community](https://community.obsidian.md/plugins/storyteller-comic-drafter).
 > Identified a problem with the lack of comic-focused drafting tools in Obsidian.
-> Currently has 800+ downloads.
+> Currently has 900+ downloads.
 
 
 **[Kulay](https://github.com/S-Urchin/Kulay.git)**: A Reading Comprehension App and a study app.
