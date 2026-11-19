@@ -40,9 +40,15 @@ I like building things you can see and play with: interactive simulations, full-
 
 ## My Core Competencies!
 
+![Full-Stack Web Development](https://img.shields.io/badge/Full--Stack%20Web%20Development-1A1B27?style=for-the-badge)
+![Web Maintenance, Management and Deployment](https://img.shields.io/badge/Web%20Maintenance%2C%20Management%20and%20Deployment-1A1B27?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1A1B27?style=for-the-badge)
+![Digital Simulations](https://img.shields.io/badge/Digital%20Simulations-1A1B27?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-1A1B27?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1A1B27?style=for-the-badge)
 ![UI Prototyping / Wireframing](https://img.shields.io/badge/UI%20Prototyping%20%2F%20Wireframing-1A1B27?style=for-the-badge)
 ![System Architecture Design](https://img.shields.io/badge/System%20Architecture%20Design-1A1B27?style=for-the-badge)
+![UML Diagramming](https://img.shields.io/badge/UML%20Diagramming-1A1B27?style=for-the-badge)
 
 ---
 
@@ -89,6 +95,7 @@ I like building things you can see and play with: interactive simulations, full-
 ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-CFD3E0?style=for-the-badge&logo=clipstudiopaint&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0100?style=for-the-badge&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
 
