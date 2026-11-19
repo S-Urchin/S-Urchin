@@ -45,7 +45,7 @@ I like building things you can see and play with: interactive simulations, full-
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1A1B27?style=for-the-badge)
 ![Digital Simulations](https://img.shields.io/badge/Digital%20Simulations-1A1B27?style=for-the-badge)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-1A1B27?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1A1B27?style=for-the-badge)
+![Data Visualization and Modelling](https://img.shields.io/badge/Data%20Visualization-1A1B27?style=for-the-badge)
 ![UI Prototyping / Wireframing](https://img.shields.io/badge/UI%20Prototyping%20%2F%20Wireframing-1A1B27?style=for-the-badge)
 ![System Architecture Design](https://img.shields.io/badge/System%20Architecture%20Design-1A1B27?style=for-the-badge)
 ![UML Diagramming](https://img.shields.io/badge/UML%20Diagramming-1A1B27?style=for-the-badge)
